@@ -1,15 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: 'John Doe',
+    title: 'Constantin`s Madagascar ',
     description:
-      'John Doe is a lifestyle photographer based in San Francisco, CA',
+      'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly',
     url: 'https://gatsby-starter-amsterdam.netlify.com',
-    author: 'John Doe',
+    author: 'Constantin Goeldel',
     image: 'https://gatsby-starter-amsterdam.netlify.com/og-image.jpg',
-    intro: 'John Doe is a lifestyle photographer based in San Francisco, CA',
+    intro:
+      'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly',
     menuLinks: [
       {
-        name: 'John Doe',
+        name: 'Constantin Goeldel',
         slug: '/',
       },
       {
