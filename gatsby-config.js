@@ -10,18 +10,18 @@ module.exports = {
       'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly',
     menuLinks: [
       {
-        name: 'Constantin Goeldel',
+        name: 'This Is Not A Blog',
         slug: '/',
       },
       {
-        name: 'Example Page',
-        slug: '/example/',
+        name: 'See the Gallery',
+        slug: '/gallery/',
       },
     ],
     footerLinks: [
       {
-        name: 'Gatsby Theme Amsterdam',
-        url: 'https://github.com/ryanwiemer/gatsby-theme-amsterdam',
+        name: 'Constantin Goeldel',
+        url: 'https://www.acctive.digital',
       },
     ],
   },
