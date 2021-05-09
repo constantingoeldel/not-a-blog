@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Constantin`s Madagascar ',
+    title: 'Constantins Madagaskar ',
     description:
-      'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly',
-    url: 'https://gatsby-starter-amsterdam.netlify.com',
+      'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly.',
+    url: 'notablog.acctive.digital/',
     author: 'Constantin Goeldel',
-    image: 'https://gatsby-starter-amsterdam.netlify.com/og-image.jpg',
+    image: 'notablog.acctive.digital/og-image.jpg',
     intro:
       'A collection of the events I experience here on Madagascar, updated maybe somewhat regularly',
     menuLinks: [
